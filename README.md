@@ -28,6 +28,7 @@ Web Clipboard is a **free and open-source** tool designed to automatically sync 
 
 ## Client Downloads
 [Android(Only the auto upload feature needs Root)](https://github.com/xjyzs/Clipboard_Android)
+[Windows](https://github.com/xjyzs/Clipboard_Windows)
 
 ## 📦 How It Works
 
