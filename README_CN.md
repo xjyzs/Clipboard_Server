@@ -28,7 +28,7 @@
 
 ## 客户端下载
 [Android(自动上传功能需要 Root, 手动上传和同步功能不需要)](https://github.com/xjyzs/Clipboard_Android)
-
+[Windows](https://github.com/xjyzs/Clipboard_Windows)
 
 ## 📦 工作原理
 
